@@ -52,8 +52,8 @@ if (curr_node) {
 	nodes.update({
 		id: curr_node.id,
 		value: Math.max(4, max_node_val * 2.5),
-		shape: "star",
-		color: "#a6a7ed",
+		shape: "circle",
+		color: "#00a971",
 		font: {
 			strokeWidth: 1,
 		},
