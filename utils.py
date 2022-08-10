@@ -317,11 +317,11 @@ class Settings:
         	},
         	edges: {
         		color: { inherit: "both" },
-        		width: 0.8,
+        		width: 0.1,
         		smooth: {
         			type: "continuous",
         		},
-        		hoverWidth: 4,
+        		hoverWidth: 2,
         	},
         	interaction: {
         		hover: true,
