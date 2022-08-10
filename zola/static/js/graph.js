@@ -53,7 +53,7 @@ if (curr_node) {
 		id: curr_node.id,
 		value: Math.max(4, max_node_val * 2.5),
 		shape: "circle",
-		color: "#00a971",
+		color: "#00e59d",
 		font: {
 			strokeWidth: 1,
 		},
