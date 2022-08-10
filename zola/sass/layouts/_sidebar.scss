@@ -35,7 +35,12 @@
 	background: $gray-200;
 }
 
-.docs-links h3,
+.docs-links h3 {
+	font-size: $font-size-lg;
+	margin: 1rem 1.6rem .6rem 0;
+	padding: 0 0 0 0;
+}
+
 .page-links h3 {
 	font-size: $font-size-lg;
 	margin: 1.25rem 0 0.5rem 0;
