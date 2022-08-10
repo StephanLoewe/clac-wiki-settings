@@ -37,8 +37,7 @@
 
 .docs-links h3,
 .page-links h3 {
-	text-transform: uppercase;
-	font-size: $font-size-base;
+	font-size: $font-size-lg;
 	margin: 1.25rem 0 0.5rem 0;
 	padding: 1.5rem 0 0 0;
 }
@@ -46,7 +45,7 @@
 .docs-links h4,
 .page-links h4 {
 	text-transform: uppercase;
-	font-size: $font-size-base;
+	font-size: $font-size-lg;
 	margin: 1.5rem 0 0.5rem 0;
 	padding: 0 0 0 0;
 }
@@ -54,7 +53,7 @@
 .docs-links h5,
 .page-links h5 {
 	text-transform: uppercase;
-	font-size: $font-size-base;
+	font-size: $font-size-lg;
 	margin: 1.25rem 0 0.5rem 0;
 	padding: 0 0 0 0;
 }
@@ -77,15 +76,11 @@
 	}
 }
 
-.docs-links h3:not(:first-child) {
-	border-top: 1px solid $gray-200;
-}
-
 a.docs-link {
 	color: $body-color;
 	display: block;
 	padding: 0.125rem 0;
-	font-size: $font-size-base;
+	font-size: $font-size-lg;
 }
 
 .page-links li {
